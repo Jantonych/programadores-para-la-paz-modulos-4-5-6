@@ -1,0 +1,9 @@
+Comando uname -a:
+Muestra información del sistema operativo, kernel, arquitectura y hostname.
+
+Comando whoami:
+Muestra el usuario actualmente conectado al sistema.
+
+Utilidad:
+Conocer esta información ayuda a administrar servidores, verificar permisos,
+diagnosticar problemas y confirmar el entorno de trabajo.
